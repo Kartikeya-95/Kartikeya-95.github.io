@@ -50,16 +50,16 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a Data Science Generalist having 6+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
   Functional Competencies: <mark>Predictive Modeling</mark>, <mark>Forecasting</mark>, <mark>Mathematical Optimization</mark>, <mark>Statistics</mark>, <mark>Data Engineering</mark>, <mark>Data Visualization</mark>, <mark>Analytical Reasoning</mark>, <mark>Strong Business Communication</mark> <br>
-  Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Azure Databricks</mark> <br>
-  Domain Knowledge: <mark>Retail Promotion & Markdown</mark>, <mark>Supply Chain Optimization</mark>, <mark>Pharma Analytics & Incentive Compensation</mark>
+  Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Tableau</mark>, <mark>Alteryx Designer</mark>, <mark>Azure Databricks</mark>, <mark>Git Ecosystem</mark> <br>
+  Domain Knowledge: <mark>Airlines Revenue Management & Modeling</mark>, <mark>Retail Promotion & Markdown</mark>, <mark>Supply Chain Optimization</mark>, <mark>Pharma Analytics & Incentive Compensation</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Airlines Revenue Management & Modeling
+        link: 
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -69,9 +69,25 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably the most challenging ML implementation & operations project.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I'm involved in this project as ML Ops Engineer during client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications & automations of models. I have learned & applied many skills through this and proud of having this in my portfolio.
+    content:
+      - layout: top-middle
+        title: Retail Promotion & Markdown Modeling
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Another project in pricing domain that revolved around retail promotion and markdown modeling.
+        description: | # this will include new lines to allow paragraphs
+          I was involved in this project during on-going development phase and contributed to implementation and changes to weighted regression discount modeling, redemption modeling, optimizing layered Baseline, Boost, Uplift model for suggesting appropriate discounts and prices at different levels of product hierarchy.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
