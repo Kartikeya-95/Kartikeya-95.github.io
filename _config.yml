@@ -59,12 +59,12 @@ content:
     content:
       - layout: top-middle
         title: Airlines Revenue Management & Modeling
-        link: 
+        #link: 
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -72,15 +72,15 @@ content:
           This is probably the most challenging ML implementation & operations project.
         description: | # this will include new lines to allow paragraphs
           I'm involved in this project as ML Ops Engineer during client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications & automations of models. I have learned & applied many skills through this and proud of having this in my portfolio.
-    content:
+  
       - layout: top-middle
         title: Retail Promotion & Markdown Modeling
-        link: 
+        #link: 
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
