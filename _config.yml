@@ -48,17 +48,17 @@ linkedin_username: kartikeyasharma95
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Data Science Generalist having 6+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
+  I'm a Data Science Generalist having 7+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
   Functional Competencies: <mark>Predictive Modeling</mark>, <mark>Forecasting</mark>, <mark>Mathematical Optimization</mark>, <mark>Statistics</mark>, <mark>Data Engineering</mark>, <mark>Data Visualization</mark>, <mark>Analytical Reasoning</mark>, <mark>Strong Business Communication</mark> <br>
-  Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Tableau</mark>, <mark>Alteryx Designer</mark>, <mark>Azure Databricks</mark>, <mark>Git Ecosystem</mark> <br>
+  Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Tableau</mark>, <mark>Alteryx Designer</mark>, <mark>Azure Databricks</mark>, <mark>Git Ecosystem</mark>, <mark>Cloud Fundamentals</mark> <br>
   Domain Knowledge: <mark>Airlines Revenue Management & Modeling</mark>, <mark>Retail Promotion & Markdown</mark>, <mark>Supply Chain Optimization</mark>, <mark>Pharma Analytics & Incentive Compensation</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Recent Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Airlines Revenue Management & Modeling
+        title: Airlines Revenue Management & Modeling (Middle East Low Cost Carrier)
         #link: 
         # link_text: Project Website
         #additional_links:
@@ -69,12 +69,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably the most challenging ML implementation & operations project.
+          Most challenging ML implementation, operations & stakeholder management in critical operations business.
         description: | # this will include new lines to allow paragraphs
-          I'm involved in this project as ML Ops Engineer during client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications & automations of models. I have learned & applied many skills through this and proud of having this in my portfolio.
+          I'm involved in this project as ML Ops Engineer during client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications, automations of models and creation of sector-wise performance monitoring mechanism based on RASK. 
   
       - layout: top-middle
-        title: Retail Promotion & Markdown Modeling
+        title: Retail Promotion & Markdown Modeling (American Retail Giant)
         #link: 
         # link_text: Project Website
         #additional_links:
@@ -85,23 +85,47 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Another project in pricing domain that revolved around retail promotion and markdown modeling.
+          Project in pricing domain that revolved around retail promotion, markdown modeling and stakeholder management.
         description: | # this will include new lines to allow paragraphs
-          I was involved in this project during on-going development phase and contributed to implementation and changes to weighted regression discount modeling, redemption modeling, optimizing layered Baseline, Boost, Uplift model for suggesting appropriate discounts and prices at different levels of product hierarchy.
+          I was involved in this project during on-going development phase and contributed to implementation and changes to regression discount modeling, redemption modeling, optimizing Baseline, Boost, Uplift model for forecasting sales units and prices at different levels of product hierarchy which resulted in 20% increase in QoQ sales & 5% increase in profit compared to past model performance.
+
+      - layout: top-middle
+        title: Supply Chain Optimization (French Food Manufacturing Giant)
+        #link: 
+        # link_text: Project Website
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Challenging Data Science Operations with complex Mathematical Optimization.
+        description: | # this will include new lines to allow paragraphs
+          I was involved in this project during operations phase ensuring seamless adoption of optimzation results by the stakeholder. I did enhancements in constraints related to capacity, stock volumes, demand, production and automated ingestion of files removing redudancies and streamlining the process as per requirements.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Boston Consulting Group
+        link: https://www.bcg.com/x/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior Data Analyst
+        caption: February 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving complex business problems using AI/ML methodologies and packaging them as product
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Refactored and enhanced multiple Data Science modules across domains of Airlines, Retail and Supply Chain to optimize Revenue strategies, leading to improved pricing and performance.
+
+            Optimized Point-to-Point pricing by re-factoring clustering techniques at Sector level and refining dynamic RBD authorization distribution, resulting in better yield management.
+
+            Refactored connecting module, improving connecting share forecasts and adjusting seat availabilities across connecting sectors.
+
+            Refined Load Factor Forecast model and built backtest pipeline enabling the assessment of new model performance on logged inference data by Days from Departure (DFD), ensuring continous model validation.
+
+            Empowered stakeholders by integrating user-defined parameters, optimizing model outputs and providing hands-on guidance for effective model utilization.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
