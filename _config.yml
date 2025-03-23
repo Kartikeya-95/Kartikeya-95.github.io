@@ -12,7 +12,7 @@ email: kartikeyasharma733@gmail.com
 website: 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: 
@@ -48,7 +48,7 @@ linkedin_username: kartikeyasharma95
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Data Science Generalist having 7+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
+  I'm a Data Science Generalist having 6+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
   Functional Competencies: <mark>Predictive Modeling</mark>, <mark>Forecasting</mark>, <mark>Mathematical Optimization</mark>, <mark>Statistics</mark>, <mark>Data Engineering</mark>, <mark>Data Visualization</mark>, <mark>Analytical Reasoning</mark>, <mark>Strong Business Communication</mark> <br>
   Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Tableau</mark>, <mark>Alteryx Designer</mark>, <mark>Azure Databricks</mark>, <mark>Git Ecosystem</mark>, <mark>Cloud Fundamentals</mark> <br>
   Domain Knowledge: <mark>Airlines Revenue Management & Modeling</mark>, <mark>Retail Promotion & Markdown</mark>, <mark>Supply Chain Optimization</mark>, <mark>Pharma Analytics & Incentive Compensation</mark>
@@ -71,7 +71,7 @@ content:
         quote: >
           Most challenging ML implementation, operations & stakeholder management in critical operations business.
         description: | # this will include new lines to allow paragraphs
-          I'm involved in this project during ML Operations & client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications, automations of models and creation of sector-wise performance monitoring mechanism based on RASK. 
+          I'm involved in this project during ML Operations & client handover phase and handled several data science modules namely Point to Point, Overbooking, Connecting Sectors, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications, automations of models and creation of sector-wise performance monitoring mechanism based on RASK. 
   
       - layout: top-middle
         title: Retail Promotion & Markdown Modeling (American Retail Giant)
@@ -123,7 +123,7 @@ content:
 
             - Built load factor backtest pipeline enabling the assessment of new model performance on logged inference data by Days from Departure (DFD), ensuring continous model validation.
 
-            - Ingetrated new user control parameters in different models, giving user more control towards the output which improved model recommendations adoption by 20%.
+            - Integrated new user control parameters in different models, giving user more control towards the output which improved model recommendations adoption by 20%.
 
             - Created weighted regression model for discount and redemption modeling along with baseline calculation enhancements that resulted in 20% increase in sales & 5% increase in overall revenue.
 
@@ -135,7 +135,43 @@ content:
 
             - Extensive collaboration with stakeholders and internal cross functional teams to solve business queries, designing and re-factoring of various machine learning and optimization models.
 
-            - Created several Power BI and Tableau dashboards using different data sources (SQL databases, Flat Files, Sharepoint etc.) for model performance monitoring, adhoc analysis and KPIs reporting. 
+            - Created several Power BI and Tableau dashboards using different data sources (SQL databases, Flat Files, Sharepoint etc.) for model performance monitoring, adhoc analysis and KPIs reporting.
+
+      - layout: left
+        title: Axtria - Ingenious Insights
+        link: https://www.axtria.com/
+        # link_text: boringcompany.com
+        sub_title: Senior Associate
+        caption: December 2019 - February 2023
+        quote: >
+          Creating ML models and automating data pipelines for US based Pharmaceutical firms
+        description: | # this will include new lines to allow paragraphs
+            - Performed time series analysis to forecast monthly national sales for several therapeutic areas that helped in estimating revenue from sales and allocating goals to sales reps.
+
+            - Performed clustering on number of prescriptions written by physicians to create segments that helped in targeting high potential physicians increasing overall sales by 10%.
+
+            - Automated data processing & cleaning using python to generate different report extracts subsequently used in dashboards and analysis, saving 50% turnaround time in reports delivery.
+
+            - Adhoc analysis on sales including comparisons, trending at different frequencies, correlation checks, IC plans’ performance, salesforce effectiveness across geographies, suggesting improvement actions and area of opportunities to stakeholders.
+
+            - Onboarded new client on Axtria's in-house tool, gathering & documenting requirements in direct collaboration with stakeholders.
+
+      - layout: left
+        title: Accenture
+        link: https://www.accenture.com/
+        # link_text: boringcompany.com
+        sub_title: Application Development Associate
+        caption: February 2018 - June 2019
+        quote: >
+          REST and SOAP based web API development and data analysis.
+        description: | # this will include new lines to allow paragraphs
+            - Performed statistical analysis on logs generated in different request/response cycles to understand the trend of exceptions logged.
+
+            - Automated fetching of exceptions and maintaining data from log files using python I/O and regular expressions.
+
+            - Created Power BI dashboards to present different metrics related to the exceptions logged.
+
+            - Created REST & SOAP based web APIs to integrate different backend systems.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -147,7 +183,7 @@ content:
         quote: >
           Completed the prescribed course in Computer Science and major projects with first division scoring 8.04 CGPA on a scale of 10.
         description: | # this will include new lines to allow paragraphs
-          During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork, communication, working to tight deadlines and maintaining active lifestyle.
+          During my time at university I learnt most of my key skills that I have taken through my career such as teamwork, communication, working to tight deadlines and maintaining active lifestyle.
 
           I spent a lot of my free time in sports events and activities that helped me devlop team spirit and perseverance.
 
