@@ -49,9 +49,9 @@ linkedin_username: kartikeyasharma95
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a Data Science Generalist having 6+ years of experience in descriptive, predictive & prescriptive analytics, doing modeling to solve business problems, drawing insights from data, supporting stakeholders in different aspects of business execution, solving various data & model releated queries. I've worked on diverse set of projects maintaining balance in business & technical acumnen. I've worked as an Individual Contributor in Data Engineering, Gen AI use cases, ML models, Mathematical Optimization, Adhoc Analysis etc. and also managed associates in projects ensuring smooth cross team functioning & timely delivery of modules & change requests. <br><br> 
-  Functional Competencies: <mark>Predictive Modeling</mark>, <mark>Forecasting</mark>, <mark>Mathematical Optimization</mark>, <mark>Statistics</mark>, <mark>Data Engineering</mark>, <mark>Data Visualization</mark>, <mark>Analytical Reasoning</mark>, <mark>Strong Business Communication</mark> <br>
-  Tools & Technologies: <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>Power BI</mark>, <mark>Tableau</mark>, <mark>Alteryx Designer</mark>, <mark>Azure Databricks</mark>, <mark>Git Ecosystem</mark>, <mark>Cloud Fundamentals</mark> <br>
-  Domain Knowledge: <mark>Airlines Revenue Management & Modeling</mark>, <mark>Retail Promotion & Markdown</mark>, <mark>Supply Chain Optimization</mark>, <mark>Pharma Analytics & Incentive Compensation</mark>
+  <mark>Functional Competencies:</mark> <b>Predictive Modeling</b>, <b>Forecasting</b>, <b>Mathematical Optimization</b>, <b>Statistics</b>, <b>Data Engineering</b>, <b>Data Visualization</b>, <b>Analytical Reasoning</b>, <b>Strong Business Communication</b> <br>
+  <mark>Tools & Technologies:</mark> <b>Python</b>, <b>Excel</b>, <b>SQL</b>, <b>Power BI</b>, <b>Tableau</b>, <b>Alteryx Designer</b>, <b>Azure Databricks</b>, <b>Git Ecosystem</b>, <b>Cloud Fundamentals</b> <br>
+  <mark>Domain Knowledge:</mark> <b>Airlines Revenue Management & Modeling</b>, <b>Retail Promotion & Markdown</b>, <b>Supply Chain Optimization</b>, <b>Pharma Analytics & Incentive Compensation</b>
 
 content:
   - title: Recent Projects # Title for the section
