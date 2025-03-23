@@ -71,7 +71,7 @@ content:
         quote: >
           Most challenging ML implementation, operations & stakeholder management in critical operations business.
         description: | # this will include new lines to allow paragraphs
-          I'm involved in this project as ML Ops Engineer during client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications, automations of models and creation of sector-wise performance monitoring mechanism based on RASK. 
+          I'm involved in this project during ML Operations & client handover phase and handled several data science modules namely Point to Point Pricing, Overbooking, Connecting Pricing, Movable Curtain & Load Factor Forecast modeling for a low cost carrier. I solved numerous client queries, helped them understand the functioning of models, incorporating change requests, monitoring, modifications, automations of models and creation of sector-wise performance monitoring mechanism based on RASK. 
   
       - layout: top-middle
         title: Retail Promotion & Markdown Modeling (American Retail Giant)
@@ -115,43 +115,66 @@ content:
         sub_title: Senior Data Analyst
         caption: February 2023 - Present
         quote: >
-          Solving complex business problems using AI/ML methodologies and packaging them as product
+          Solving complex business problems using AI/ML methodologies packaged as product
         description: | # this will include new lines to allow paragraphs
-            Refactored and enhanced multiple Data Science modules across domains of Airlines, Retail and Supply Chain to optimize Revenue strategies, leading to improved pricing and performance.
+            - Refactored and enhanced multiple Data Science modules across domains of Airlines, Retail and Supply Chain to optimize revenue strategies, leading to improved pricing and performance.
 
-            Optimized Point-to-Point pricing by re-factoring clustering techniques at Sector level and refining dynamic RBD authorization distribution, resulting in better yield management.
+            - Optimized load factor forecast model based on departure days buckets, RBD seats allocation distribution, flight sector level clustering resulting in 5% increase in revenue for top 10% domestic sectors.
 
-            Refactored connecting module, improving connecting share forecasts and adjusting seat availabilities across connecting sectors.
+            - Built load factor backtest pipeline enabling the assessment of new model performance on logged inference data by Days from Departure (DFD), ensuring continous model validation.
 
-            Refined Load Factor Forecast model and built backtest pipeline enabling the assessment of new model performance on logged inference data by Days from Departure (DFD), ensuring continous model validation.
+            - Ingetrated new user control parameters in different models, giving user more control towards the output which improved model recommendations adoption by 20%.
 
-            Empowered stakeholders by integrating user-defined parameters, optimizing model outputs and providing hands-on guidance for effective model utilization.
+            - Created weighted regression model for discount and redemption modeling along with baseline calculation enhancements that resulted in 20% increase in sales & 5% increase in overall revenue.
+
+            - Improved the prediction results for ~2000 new SKUs based on similarity matching using resembling SKUs with enough history & similar characteristics streamlining the launch strategies for new SKUs in the market.
+
+            - Creation & enhancements of business constraints related to stock, capacity, demand & production to align the optimization output with business requirements. 
+
+            - Resolved 50+ ad hoc client queries across multiple projects, ensuring timely model output explanations, data interpretation and business alignment.
+
+            - Extensive collaboration with stakeholders and internal cross functional teams to solve business queries, designing and re-factoring of various machine learning and optimization models.
+
+            - Created several Power BI and Tableau dashboards using different data sources (SQL databases, Flat Files, Sharepoint etc.) for model performance monitoring, adhoc analysis and KPIs reporting. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Amity University
+        caption: 2013 - 2017
+        sub_title: B.Tech Computer Science & Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Completed the prescribed course in Computer Science and major projects with first division scoring 8.04 CGPA on a scale of 10.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork, communication, working to tight deadlines and maintaining active lifestyle.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time in sports events and activities that helped me devlop team spirit and perseverance.
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Great Lakes Institute of Management
+        caption: Jul 2019 - Dec 2019
+        sub_title: PGP in Data Science & Engineering
+        quote: >
+          Completed comphrensive full time classroom program in Data Science, specifically catered for practical and application based learning.
+        description: | # this will include new lines to allow paragraphs
+          During my time here, I learnt ML implementation, business communication and presentation skills that helped me excel in solving business problems using data utilizing various tools, methodologies and algorithms.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in Data Science some of my other interests and hobbies are:
+      - Travelling
+      - Sports (Badminton, Table Tennis, Football)
+      - Bojutsu (Art of wielding a staff)
+      - Arts, Culture & Spiritual Exploration 
+    
+      # [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
